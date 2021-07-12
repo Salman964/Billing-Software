@@ -1,0 +1,15 @@
+	Welcome to Arsalan Store
+Bill Number : 6435
+Customer Name : Saeed Ahmed
+Phone Number : 0599651636
+======================================
+ Products		QTY		Price
+======================================
+Bath Soap		1		40
+Daal		2		120
+Shezan		3		75
+--------------------------------------
+Cosmetic Tax : 			Rs.4.8
+Grocery Tax : 			Rs.8.4
+Cold Drink Tax : 			Rs.3.75
+Total Bill : 			Rs.251.95000000000002

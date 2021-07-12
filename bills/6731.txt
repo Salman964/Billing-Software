@@ -1,0 +1,15 @@
+	Welcome to Arsalan Store
+Bill Number : 6731
+Customer Name : Arsalan Saeed
+Phone Number : 309-481-2770
+======================================
+ Products		QTY		Price
+======================================
+Face Wash		4		480
+Daal		2		120
+Pepsi		10		300
+--------------------------------------
+Cosmetic Tax : 			Rs.57.6
+Grocery Tax : 			Rs.8.4
+Cold Drink Tax : 			Rs.15.0
+Total Bill : 			Rs.981.0

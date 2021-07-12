@@ -1,0 +1,11 @@
+	Welcome to Arsalan Store
+Bill Number : 8407
+Customer Name : Salman Saeed
+Phone Number : 123
+======================================
+ Products		QTY		Price
+======================================
+Daal		1		60
+--------------------------------------
+Grocery Tax : 			Rs.4.2
+Total Bill : 			Rs.64.2

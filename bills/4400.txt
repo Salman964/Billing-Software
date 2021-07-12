@@ -1,0 +1,15 @@
+	Welcome to Arsalan Store
+Bill Number : 4400
+Customer Name : Arsalan Saeed
+Phone Number : 309-481-2770
+======================================
+ Products		QTY		Price
+======================================
+Bath Soap		1		40
+Daal		2		120
+Lemon Malt		3		180
+--------------------------------------
+Cosmetic Tax : 			Rs.4.8
+Grocery Tax : 			Rs.8.4
+Cold Drink Tax : 			Rs.9.0
+Total Bill : 			Rs.362.2

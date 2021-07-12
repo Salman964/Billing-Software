@@ -1,0 +1,11 @@
+	Welcome to Arsalan Store
+Bill Number : 9190
+Customer Name : abc
+Phone Number : 123
+======================================
+ Products		QTY		Price
+======================================
+Face Cream		3		300
+--------------------------------------
+Cosmetic Tax : 			Rs.36.0
+Total Bill : 			Rs.336.0

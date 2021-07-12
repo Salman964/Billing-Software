@@ -1,0 +1,11 @@
+ 	Welcome to Arsalan Store
+Bill Number : 7065
+Customer Name : salman saeed
+Phone Number : 3038034963
+======================================
+ Products		QTY		Price
+======================================
+Rice		2		200
+--------------------------------------
+Grocery Tax : 			Rs.14.0
+Total Bill : 			Rs.214.0
